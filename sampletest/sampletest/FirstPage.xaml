@@ -7,7 +7,7 @@
             <Label Text="GitHub Code"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
-            <Label Text="naren7890naren" TextColor="Blue" VerticalOptions="CenterAndExpand"  HorizontalOptions="CenterAndExpand"/>
+            <Label Text="naren7890" TextColor="Blue" VerticalOptions="CenterAndExpand"  HorizontalOptions="CenterAndExpand"/>
 
             <Label Text="suren123"  VerticalOptions="CenterAndExpand"  HorizontalOptions="CenterAndExpand"/>
 
