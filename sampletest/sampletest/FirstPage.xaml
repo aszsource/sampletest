@@ -14,7 +14,7 @@
 
      <Label Text="vamsireddy652"  VerticalOptions="CenterAndExpand"  HorizontalOptions="CenterAndExpand"/>
 
-            
+           <Label Text="karrivamsi"  VerticalOptions="CenterAndExpand"  HorizontalOptions="CenterAndExpand"/>   
 
         </StackLayout>
     </ContentPage.Content>
