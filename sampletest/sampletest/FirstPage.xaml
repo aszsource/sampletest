@@ -10,7 +10,7 @@
             <Label Text="name" TextColor="Blue" VerticalOptions="CenterAndExpand"  HorizontalOptions="CenterAndExpand"/>
 
             <Label Text="employee"  VerticalOptions="CenterAndExpand"  HorizontalOptions="CenterAndExpand"/>
-            <Label Text="suren1200546474"  VerticalOptions="CenterAndExpand"  HorizontalOptions="CenterAndExpand"/>
+            <Label Text="EmpID"  VerticalOptions="CenterAndExpand"  HorizontalOptions="CenterAndExpand"/>
 
 
      <Label Text="vamsireddy652"  VerticalOptions="CenterAndExpand"  HorizontalOptions="CenterAndExpand"/>
