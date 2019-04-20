@@ -7,13 +7,15 @@
             <Label Text="GitHub Code"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
-            <Label Text="employee" TextColor="Blue" VerticalOptions="CenterAndExpand"  HorizontalOptions="CenterAndExpand"/>
+            <Label Text="name" TextColor="Blue" VerticalOptions="CenterAndExpand"  HorizontalOptions="CenterAndExpand"/>
 
-            <Label Text="name"  VerticalOptions="CenterAndExpand"  HorizontalOptions="CenterAndExpand"/>
+            <Label Text="employee"  VerticalOptions="CenterAndExpand"  HorizontalOptions="CenterAndExpand"/>
+            <Label Text="suren1200546474"  VerticalOptions="CenterAndExpand"  HorizontalOptions="CenterAndExpand"/>
 
 
+     <Label Text="vamsireddy652"  VerticalOptions="CenterAndExpand"  HorizontalOptions="CenterAndExpand"/>
 
-            
+           <Label Text="karrivamsi"  VerticalOptions="CenterAndExpand"  HorizontalOptions="CenterAndExpand"/>   
 
         </StackLayout>
     </ContentPage.Content>
