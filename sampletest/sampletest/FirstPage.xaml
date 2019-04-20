@@ -7,9 +7,9 @@
             <Label Text="GitHub Code"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
-            <Label Text="7890" TextColor="Blue" VerticalOptions="CenterAndExpand"  HorizontalOptions="CenterAndExpand"/>
+            <Label Text="employee" TextColor="Blue" VerticalOptions="CenterAndExpand"  HorizontalOptions="CenterAndExpand"/>
 
-            <Label Text="1200125"  VerticalOptions="CenterAndExpand"  HorizontalOptions="CenterAndExpand"/>
+            <Label Text="name"  VerticalOptions="CenterAndExpand"  HorizontalOptions="CenterAndExpand"/>
 
 
 
